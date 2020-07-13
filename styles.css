@@ -63,7 +63,7 @@
   display: grid;
   padding: 75px;
   overflow: hidden;
-  gap: 20px;
+  grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
