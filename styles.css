@@ -71,10 +71,12 @@
   .carousel-item .img-fluid {
     height: 300px;
   }
+  .carousel-caption{
+    font-size: 12px;
+  }
 }
 
 .carousel-caption{
   background-color:black;
   opacity: 50%;
-  font-size:5vw;
 }
