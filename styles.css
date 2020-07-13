@@ -71,7 +71,10 @@
   .carousel-item .img-fluid {
     height: 300px;
   }
-  .carousel-caption{
+  .carousel{
+    height: 300px;	
+  }
+  .display-4{
     font-size: 12px;
   }
 }
